@@ -1,17 +1,25 @@
 # Data Analysis Platform
 
-A clean and simple Flask web application for uploading CSV/Excel files and displaying AI-powered analysis results.
 
+
+
+A clean and simple Flask web application for uploading CSV files and displaying churn analysis results.
+# Demo video
+https://github.com/user-attachments/assets/f75348ce-47ea-468d-951e-46109ede6576
 ## Features
 
-- **File Upload**: Drag & drop or browse to upload CSV/Excel files
-- **AI Predictions**: View comprehensive analysis results with:
+- **File Upload**: Drag & drop or browse to upload CSV.
+- **Explainability**: View comprehensive analysis results with:
   - Model performance metrics
   - Feature importance visualization
   - Predictions summary with charts
   - AI insights and recommendations
-- **Clean UI**: Modern, responsive design with Bootstrap
+- **Clean UI**: Modern, responsive design with Bootstrap.
 - **Interactive Charts**: Visual representations using Chart.js
+- **Customer Churn Prediction Model**: Machine learning models to predict customer churn.
+- **SHAP (SHapley Additive exPlanations)**: Unified approach to explain model predictions.
+- **Feature Importance Analysis**: Understand which features matter most.
+- **Interactive Visualizations**: Visual explanations of model behavior
 
 ## Setup
 
@@ -31,7 +39,7 @@ python app.py
 
 ## Usage
 
-1. **Upload Page**: Select or drag & drop a CSV/Excel file
+1. **Upload Page**: Select or drag & drop a CSV.
 2. **Analysis Page**: View AI predictions and insights based on your data
 3. **Reset**: Start over with a new file
 
@@ -55,7 +63,10 @@ python app.py
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap 5
 - **Charts**: Chart.js
 - **Icons**: Font Awesome
-
-## Note
-
-This application currently uses placeholder data for AI predictions. In a production environment, you would integrate with actual machine learning models and data processing pipelines.
+- **MLModels**: XGBoost , MLP
+-
+-
+## AI Chat links:
+- https://chatgpt.com/share/68eaeb01-2f78-800a-bc1e-21872791b872
+- https://chatgpt.com/share/68ea6377-fb98-8000-a7fd-e723171f20fb
+- https://g.co/gemini/share/2658c751415e

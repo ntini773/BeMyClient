@@ -64,8 +64,8 @@ python app.py
 - **Charts**: Chart.js
 - **Icons**: Font Awesome
 - **MLModels**: XGBoost , MLP
--
--
+
+  
 ## AI Chat links:
 - https://chatgpt.com/share/68eaeb01-2f78-800a-bc1e-21872791b872
 - https://chatgpt.com/share/68ea6377-fb98-8000-a7fd-e723171f20fb
